@@ -2,7 +2,7 @@
     {
     "Name": "Men's T-Shirt",
     "Brand": "Fashion Zone",
-    "Price": "$29.99",
+    "Price": 29.99,
     "Description": "This stylish men's t-shirt is made with high-quality materials for comfort and durability. It features a classic design and a comfortable fit, making it perfect for everyday wear.",
     "Category": "Clothing",
     "Rating": 4.5,
@@ -11,7 +11,7 @@
   {
     "Name": "Trendy Urban Tee",
     "Brand": "Urban Style",
-    "Price": "$39.99",
+    "Price": 39.99,
     "Description": "Stay ahead of the fashion game with this trendy urban tee. Made from premium materials, it offers both comfort and style. The sleek design and perfect fit make it a must-have for any fashion-forward individual.",
     "Category": "Clothing",
     "Rating": 4.8,
@@ -20,7 +20,7 @@
   {
     "Name": "Classic Striped Men's Tee",
     "Brand": "RetroStyle",
-    "Price": "$34.99",
+    "Price": 34.99,
     "Description": "Elevate your casual look with this classic striped men's tee. Crafted with attention to detail, it offers both comfort and timeless style. The versatile design and soft fabric make it a wardrobe staple for any fashion-savvy individual.",
     "Category": "Clothing",
     "Rating": 4.6,
@@ -29,7 +29,7 @@
   {
     "Name": "Graphic Print T-Shirt",
     "Brand": "Expressive Wear",
-    "Price": "$19.99",
+    "Price": 19.99,
     "Description": "Make a statement with this eye-catching graphic print t-shirt. Designed with creativity in mind, it adds a touch of personality to your outfit. The soft fabric and comfortable fit ensure all-day comfort.",
     "Category": "Clothing",
     "Rating": 4.2,
@@ -38,7 +38,7 @@
   {
     "Name": "Sporty Performance Tee",
     "Brand": "ActivePro",
-    "Price": "$44.99",
+    "Price": 44.99,
     "Description": "Stay cool and comfortable during workouts with this sporty performance tee. Engineered with moisture-wicking technology, it keeps you dry and focused. The athletic design and stretchy fabric provide optimal mobility.",
     "Category": "Clothing",
     "Rating": 4.9,
@@ -47,7 +47,7 @@
   {
     "Name": "Women's T-Shirt",
     "Brand": "Fashionista",
-    "Price": "$29.99",
+    "Price": 29.99,
     "Description": "This trendy women's t-shirt is made with high-quality materials for comfort and style. It features a flattering fit and a versatile design, making it a perfect addition to your wardrobe.",
     "Category": "Clothing",
     "Rating": 4.5,
@@ -56,7 +56,7 @@
   {
     "Name": "Chic Striped Tee",
     "Brand": "Elegance Couture",
-    "Price": "$39.99",
+    "Price": 39.99,
     "Description": "Stay chic and comfortable with this striped women's tee. Made from premium fabrics, it offers both style and comfort. The timeless design and classic stripes make it a versatile choice for any occasion.",
     "Category": "Clothing",
     "Rating": 4.8,
@@ -65,7 +65,7 @@
   {
     "Name": "Casual V-Neck T-Shirt",
     "Brand": "Relaxation Station",
-    "Price": "$34.99",
+    "Price": 34.99,
     "Description": "Experience comfort and style with this casual v-neck t-shirt. Crafted with soft materials, it offers a relaxed fit and easygoing vibe. The versatile design and variety of colors make it a wardrobe essential.",
     "Category": "Clothing",
     "Rating": 4.6,
@@ -74,7 +74,7 @@
   {
     "Name": "Printed Floral Top",
     "Brand": "Blooming Blossoms",
-    "Price": "$19.99",
+    "Price": 19.99,
     "Description": "Add a touch of femininity with this printed floral top. The delicate floral pattern and lightweight fabric create a graceful look. Pair it with your favorite jeans or skirt for a charming ensemble.",
     "Category": "Clothing",
     "Rating": 4.2,
@@ -83,7 +83,7 @@
   {
     "Name": "Athletic Performance Tee",
     "Brand": "ActiveFit",
-    "Price": "$44.99",
+    "Price": 44.99,
     "Description": "Stay active and stylish with this athletic performance tee. Engineered with moisture-wicking technology, it keeps you cool and dry during your workouts. The sporty design and comfortable fit make it an ideal choice for your active lifestyle.",
     "Category": "Clothing",
     "Rating": 4.9,
@@ -92,7 +92,7 @@
   {
     "Name": "Nike Go FlyEase",
     "Brand": "Nike",
-    "Price": "$149.99",
+    "Price": 149.99,
     "Description": "Experience the future of footwear with Nike Go FlyEase. These innovative shoes feature a hands-free design with a unique tension band system that allows for easy on and off. They provide comfort, flexibility, and style for your everyday activities.",
     "Category": "Shoes",
     "Rating": 4.7,
@@ -101,7 +101,7 @@
   {
     "Name": "Adidas Run Falcon 2.0",
     "Brand": "Adidas",
-    "Price": "$89.99",
+    "Price": 89.99,
     "Description": "Get ready for your run with Adidas Run Falcon 2.0. These running shoes offer excellent comfort, support, and style. With a lightweight construction and responsive cushioning, they are designed to enhance your performance and keep you comfortable mile after mile.",
     "Category": "Shoes",
     "Rating": 4.5,
@@ -110,7 +110,7 @@
   {
     "Name": "Women's Casual Shoes",
     "Brand": "Fashionista",
-    "Price": "$59.99",
+    "Price": 59.99,
     "Description": "Step out in style with these fashionable women's casual shoes. Designed for both comfort and style, they feature a trendy design and a comfortable fit. These versatile shoes are perfect for any casual occasion.",
     "Category": "Shoes",
     "Rating": 4.6,
@@ -119,7 +119,7 @@
   {
     "Name": "International Dance Shoes",
     "Brand": "DanceFusion",
-    "Price": "$129.99",
+    "Price": 129.99,
     "Description": "Take your dance performance to the next level with these international dance shoes. Designed for both comfort and elegance, they provide the necessary support and flexibility for your dance moves. Step onto the dance floor with confidence.",
     "Category": "Shoes",
     "Rating": 4.8,
@@ -128,7 +128,7 @@
   {
     "Name": "Pointed Creeper Red",
     "Brand": "Alternative Style",
-    "Price": "$79.99",
+    "Price": 79.99,
     "Description": "Make a bold fashion statement with these pointed creeper shoes in red. The unique design and vibrant color add an edgy touch to your outfit. These shoes are perfect for those who dare to stand out.",
     "Category": "Shoes",
     "Rating": 4.3,
