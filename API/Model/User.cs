@@ -46,7 +46,7 @@ namespace API.Model
             }
             else
             {
-                string jsonData = File.ReadAllText("./User.json");
+                string jsonData = File.ReadAllText("./user.json");
                 var users = JsonSerializer.Deserialize<User[]>(jsonData, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
                 return JsonSerializer.Serialize(users?.Take(number), new JsonSerializerOptions { WriteIndented = true });
             }
