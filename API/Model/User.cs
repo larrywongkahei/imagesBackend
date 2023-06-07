@@ -35,7 +35,7 @@ namespace API.Model
 
         public string getAll()
         {
-            return  File.ReadAllText("./User.json");
+            return  File.ReadAllText("./user.json");
         }
 
         public string? getNumbersOfUsers(int number)
